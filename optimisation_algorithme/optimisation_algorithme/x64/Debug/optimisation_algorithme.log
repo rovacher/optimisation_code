@@ -1,0 +1,4 @@
+﻿  optimisation_algorithme.cpp
+C:\Users\rovacher\Documents\optimisation_algorithme\optimisation_algorithme\optimisation_algorithme.cpp(10,8): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\rovacher\Documents\optimisation_algorithme\optimisation_algorithme\optimisation_algorithme.cpp(63,41): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  optimisation_algorithme.vcxproj -> C:\Users\rovacher\Documents\optimisation_algorithme\x64\Debug\optimisation_algorithme.exe

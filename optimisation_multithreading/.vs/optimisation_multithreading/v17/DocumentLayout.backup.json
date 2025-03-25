@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rovacher\\Documents\\optimisation_multithreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E442DB-28DB-46EF-8421-0BD5E9A81D1B}|optimisation_multithreading\\optimisation_multithreading.vcxproj|C:\\Users\\rovacher\\Documents\\optimisation_multithreading\\optimisation_multithreading\\optimisation_multithreading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37E442DB-28DB-46EF-8421-0BD5E9A81D1B}|optimisation_multithreading\\optimisation_multithreading.vcxproj|solutionrelative:optimisation_multithreading\\optimisation_multithreading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "optimisation_multithreading.cpp",
+              "DocumentMoniker": "C:\\Users\\rovacher\\Documents\\optimisation_multithreading\\optimisation_multithreading\\optimisation_multithreading.cpp",
+              "RelativeDocumentMoniker": "optimisation_multithreading\\optimisation_multithreading.cpp",
+              "ToolTip": "C:\\Users\\rovacher\\Documents\\optimisation_multithreading\\optimisation_multithreading\\optimisation_multithreading.cpp",
+              "RelativeToolTip": "optimisation_multithreading\\optimisation_multithreading.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T07:39:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

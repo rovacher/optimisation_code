@@ -1,0 +1,31 @@
+﻿  optimisation_multithreading.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\type_traits(1706,98): warning C4244: 'argument' : conversion de 'unsigned __int64' en 'int', perte possible de données
+  (compiler le fichier source 'optimisation_multithreading.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\type_traits(1706,98):
+      le contexte d’instanciation du modèle (le plus ancien) est
+          C:\Users\rovacher\Documents\optimisation_multithreading\optimisation_multithreading\optimisation_multithreading.cpp(34,16):
+          voir la référence à l'instanciation de la fonction modèle 'std::thread::thread<main::<lambda_1>&,std::reference_wrapper<std::vector<int,std::allocator<int>>>,int,unsigned __int64,0>(_Fn,std::reference_wrapper<std::vector<int,std::allocator<int>>> &&,int &&,unsigned __int64 &&)' en cours de compilation
+          with
+          [
+              _Fn=main::<lambda_1> &
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\thread(93,9):
+          voir la référence à l'instanciation de la fonction modèle 'void std::thread::_Start<main::<lambda_1>&,_Ty,int,unsigned __int64>(_Fn,_Ty &&,int &&,unsigned __int64 &&)' en cours de compilation
+          with
+          [
+              _Ty=std::reference_wrapper<std::vector<int,std::allocator<int>>>,
+              _Fn=main::<lambda_1> &
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\thread(76,40):
+          voir la référence à l'instanciation de la fonction modèle 'unsigned int (__cdecl *std::thread::_Get_invoke<std::thread::_Start::_Tuple,0,1,2,3>(std::integer_sequence<size_t,0,1,2,3>) noexcept)(void *)' en cours de compilation
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\thread(67,17):
+          voir la référence à l'instanciation de la fonction modèle 'unsigned int std::thread::_Invoke<std::thread::_Start::_Tuple,0,1,2,3>(void *) noexcept' en cours de compilation
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\thread(60,14):
+          voir la référence à l'instanciation de la fonction modèle 'void std::invoke<main::<lambda_1>,std::reference_wrapper<std::vector<int,std::allocator<int>>>,int,unsigned __int64>(_Callable &&,_Ty1 &&,int &&,unsigned __int64 &&) noexcept(false)' en cours de compilation
+          with
+          [
+              _Callable=main::<lambda_1>,
+              _Ty1=std::reference_wrapper<std::vector<int,std::allocator<int>>>
+          ]
+  
+  optimisation_multithreading.vcxproj -> C:\Users\rovacher\Documents\optimisation_multithreading\x64\Debug\optimisation_multithreading.exe
