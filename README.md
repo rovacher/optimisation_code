@@ -1,2 +1,2 @@
 Personne du groupe : Rose VACHER et Clément BREUIL
-Telecharger le fichier, l'ouvrir et l'éxécuter dans visual studio code en C++
+Telecharger les fichiers, les ouvrir et les éxécuter dans visual studio code en C++
